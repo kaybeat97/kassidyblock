@@ -4,3 +4,13 @@
 e {
   color: transparent;
 }
+.rc1 {
+  max-width: 65%;
+  margin: auto;
+    background-color: blue  ;
+}
+.rc2 {
+  max-width: 65%;
+  margin: auto;
+    background-color: green  ;
+}

@@ -6,6 +6,7 @@ e {
 }
 .rc1 {
   max-width: 65%;
+  padding-top: 5%;
   margin: auto;
     background-color: blue  ;
 }
@@ -15,7 +16,7 @@ e {
     background-color: green  ;
 }
 .rc3 {
-  max-width: 45%;
+  max-width: 55%;
   margin: auto;
     background-color: yellow  ;
 }

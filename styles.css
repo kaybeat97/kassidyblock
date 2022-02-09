@@ -1,8 +1,13 @@
 .wrapper {
-  background-image: conic-gradient(white 0deg, white 90deg, rgb(32, 32, 82) 90deg, rgb(32, 32, 82) 180deg, rgb(32, 32, 82) 180deg, rgb(32, 32, 82) 270deg, white 270deg);
+  background-color:  peachpuff;
 }
 e {
   color: transparent;
+}
+
+.bwrapper {
+  background-color: aquamarine;
+  margin-top: 25px;
 }
 .rc1 {
   max-width: 70%;
@@ -20,4 +25,8 @@ e {
   max-width: 65%;
   margin: auto;
     background-color: yellow  ;
+} 
+.flex-container {
+  display: flex;
+  justify-content: flex-end;
 }

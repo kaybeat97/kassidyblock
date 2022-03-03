@@ -1,12 +1,14 @@
 .wrapper {
-  background-color:  peachpuff;
+  background-color: #D2E4C4;
+}
+.wrapper2 {
+  background-color: #011936;
 }
 e {
   color: transparent;
 }
-
 .bwrapper {
-  background-color: aquamarine;
+  background-image: linear-gradient(#D2E4C4, #011936);
   margin-top: 25px;
 }
 .rc1 {
@@ -14,7 +16,9 @@ e {
   justify-content: center;
   margin: auto;
     background-color: black  ;
-    color: blanchedalmond;
+    color: whitesmoke;
+    border-width: 20px;
+    border-color: white;
 }
 .rc2 {
   max-width: 70%;
@@ -24,8 +28,9 @@ e {
 .rc3 {
   max-width: 65%;
   margin: auto;
-    background-color: yellow  ;
+    background-color: white  ;
 } 
+
 .flex-container {
   display: flex;
   justify-content: flex-end;

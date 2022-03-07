@@ -17,6 +17,7 @@ e {
   margin: auto;
     background-color: black  ;
     color: whitesmoke;
+    border-style: solid;
     border-width: 20px;
     border-color: white;
 }
@@ -30,6 +31,24 @@ e {
   margin: auto;
     background-color: white  ;
 } 
+
+.card2 {
+  height: 100%; 
+  background-color: white;
+  border-style: dashed;
+  border-color: white;
+  border-width: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.jumbo {
+  margin-top: 2%;
+  padding: 4%;
+  text-align: center;
+  color: white;
+  background-color: #297373; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 .flex-container {
   display: flex;
